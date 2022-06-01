@@ -29,3 +29,7 @@
   <p><small>and many more</small></p>
   <br/>
   <p>If you find color inconsistence on any language, make a <a href="https://github.com/sjns19/chrome-console-dark/issues">github issue</a>.</p>
+  <hr/>
+  <p><small>Made with ❤️ by Sujan</small></p>
+  <img src="https://img.shields.io/github/license/sjns19/chrome-console-dark?color=%23f19767" />
+</div>
