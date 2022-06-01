@@ -18,9 +18,14 @@
         "chrome console",
         "chrome console theme"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sjns19/chrome-console-dark.git"
+    },
     "categories": [
         "Themes"
     ],
+
     "contributes": {
         "themes": [
             {

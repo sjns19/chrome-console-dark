@@ -29,8 +29,3 @@
   <p><small>and many more</small></p>
   <br/>
   <p>If you find color inconsistence on any language, make a <a href="https://github.com/sjns19/chrome-console-dark/issues">github issue</a>.</p>
-  <hr/>
-  <p><small>Made with ❤️ by Sujan</small></p>
-  <p><small>License: <a href="https://github.com/sjns19/chrome-console-dark/blob/main/LICENSE">MIT</a>
-  <p><small>Preview at: <a href="">vscode.dev</a>
-</div>
