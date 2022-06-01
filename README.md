@@ -1,7 +1,11 @@
 <div align="center">
   <h1>Chrome Console Dark</h1>
 
-  <h5>Bringing Google Chrome's dev console colors to VS Code!</h5><br/><br/>
+  <h5>Bringing Google Chrome's dev console colors to VS Code!</h5>
+  <img src="https://img.shields.io/github/package-json/v/sjns19/chrome-console-dark?color=%23f19767&style=for-the-badge" />
+  <img src="https://img.shields.io/visual-studio-marketplace/d/SujanShrestha.chrome-console-dark?color=%23f19767&style=for-the-badge" />
+  <img src="https://img.shields.io/visual-studio-marketplace/stars/SujanShrestha.chrome-console-dark?color=%23f19767&style=for-the-badge" />
+  <br/><br/>
   <p>A Visual Studio Code color theme based on the Google Chrome dev console color scheme.</p>
   <img src="https://user-images.githubusercontent.com/47782595/171379720-38f837fc-7641-40a6-abd4-a08955be4b3e.png" />
   <br/><br/><br/>
@@ -28,5 +32,5 @@
   <hr/>
   <p><small>Made with ❤️ by Sujan</small></p>
   <p><small>License: <a href="https://github.com/sjns19/chrome-console-dark/blob/main/LICENSE">MIT</a>
- 
+  <p><small>Preview at: <a href="">vscode.dev</a>
 </div>
