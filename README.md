@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/visual-studio-marketplace/stars/SujanShrestha.chrome-console-dark?color=%23f19767&style=for-the-badge" />
   <br/><br/>
   <p>A Visual Studio Code color theme based on the Google Chrome dev console color scheme.</p>
-  <img src="https://user-images.githubusercontent.com/47782595/171379720-38f837fc-7641-40a6-abd4-a08955be4b3e.png" />
+  <img width="1370" alt="Chrome Console Dark" src="https://user-images.githubusercontent.com/47782595/171575187-8feabb6e-4af5-4692-8a81-78d776c7136b.png">
   <br/><br/><br/>
   <h2>Installation</h2>
   <p>Launch VS Code quick open with ctrl/command + P and run the following command:</p>
@@ -32,4 +32,5 @@
   <hr/>
   <p><small>Made with ❤️ by Sujan</small></p>
   <p><small>License: <a href="https://github.com/sjns19/chrome-console-dark/blob/main/LICENSE.md">MIT</a></small></p>
+  <p><small>Preview in <a href="https://vscode.dev/theme/SujanShrestha.chrome-console-dark">vscode.dev</a></small></p>
 </div>
