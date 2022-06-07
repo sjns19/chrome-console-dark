@@ -1,5 +1,5 @@
 {
-	"name": "Everest Night Snow",
+	"name": "Chrome Console Dark",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#202124",
@@ -225,6 +225,7 @@
 				"keyword.other.new",
 				"keyword.other.import",
 				"keyword.other.package",
+				"keyword.operator.expression",
 				"keyword.type",
 				"entity.name.section.markdown"
 			],
