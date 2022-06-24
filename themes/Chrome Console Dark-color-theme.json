@@ -4,86 +4,65 @@
 	"colors": {
 		"editor.background": "#202124",
 		"editor.foreground": "#c2c9d1",
-		
 		"editorLineNumber.foreground": "#6e7276",
 		"editorLineNumber.activeForeground": "#989ea4",
-
 		"editorIndentGuide.background": "#43464a",
 		"editorIndentGuide.activeBackground": "#686d71",
-
 		"editorGroupHeader.tabsBackground": "#202124",
 		"editorGroupHeader.border": "#43464a",
-
 		"editor.lineHighlightBorder": "#00000000",
-
 		"editorWidget.background": "#202124",
 		"editorWidget.foreground": "#6e7276",
 		"editorWidget.border": "#393a3d",
-
 		"activityBar.background": "#292a2d",
 		"activityBar.foreground": "#989ea4",
 		"activityBar.activeBorder": "#919294",
 		"activityBarBadge.background": "#8bb4f7",
 		"activityBarBadge.foreground": "#000",
-
 		"sideBar.background": "#292a2d",
 		"sideBar.foreground": "#989ea4",
 		"sideBarTitle.foreground": "#dadbdd",
 		"sideBarSectionHeader.background": "#292a2d",
-
 		"titleBar.activeBackground": "#292a2d",
 		"titleBar.activeForeground": "#989ea4",
 		"titleBar.inactiveBackground": "#202124",
-
 		"tab.inactiveBackground": "#292a2d",
 		"tab.inactiveForeground": "#6e7276",
 		"tab.activeForeground": "#dadbdd",
 		"tab.activeBorderTop": "#989ea4",
-
-		
 		"list.activeSelectionBackground": "#393a3d",
 		"list.inactiveFocusBackground": "#393a3d",
 		"list.inactiveSelectionBackground": "#393a3d",
 		"list.hoverBackground": "#393a3d",
 		"list.hoverForeground": "#dadbdd",
-
 		"breadcrumb.foreground": "#6e7276",
 		"breadcrumb.focusForeground": "#989ea4",
 		"breadcrumbPicker.background": "#202124",
-		
 		"scrollbarSlider.background": "#393a3d",
 		"scrollbarSlider.hoverBackground": "#494a4d",
 		"scrollbarSlider.activeBackground": "#494a4d",
-
 		"button.background": "#8bb4f7",
 		"button.hoverBackground": "#7ba1df",
 		"button.foreground": "#000000",
-
 		"welcomePage.tileBackground": "#292a2d",
 		"welcomePage.tileHoverBackground": "#393a3d",
 		"welcomePage.progress.background": "#6e7276",
 		"welcomePage.progress.foreground": "#989ea4",
-
 		"dropdown.background": "#202324",
 		"dropdown.listBackground": "#202324",
-
 		"input.background": "#292a2d",
 		"input.foreground": "#dadbdd",
 		"input.placeholderForeground": "#6e7276",
 		"input.border": "#393a3d",
-
 		"panelTitle.activeForeground": "#989ea4",
 		"panelTitle.activeBorder": "#9893a4",
-
 		"statusBar.background": "#445e88",
 		"statusBar.foreground": "#ffffffcc",
-
 		"notificationCenterHeader.background": "#292a2d",
 		"notificationCenterHeader.foreground": "#989ea4",
 		"notificationCenter.border": "#393a3d",
 		"notifications.background": "#292a2d",
 		"notifications.foreground": "#989ea4",
-
 		"keybindingLabel.background": "#292a2d",
 		"keybindingLabel.foreground": "#989ea4",
 		"terminal.foreground": "#989ea4",
@@ -92,7 +71,6 @@
 		"quickInput.background": "#202124",
 		"quickInput.foreground": "#989ea4",
 		"gitDecoration.ignoredResourceForeground": "#6e7276",
-	
 		"minimapSlider.background": "#989ea411",
 		"minimapSlider.hoverBackground": "#989ea422",
 		"minimapSlider.activeBackground": "#989ea422"
@@ -117,6 +95,7 @@
 				"storage.type.function.arrow",
 				"entity.other.attribute-name.pseudo-element",
 				"entity.other.attribute-name.pseudo-class",
+				"meta.class.body",
 			],
 			"settings": {
 				"foreground": "#c2c9d1"
@@ -168,17 +147,19 @@
 				"support.type.object.module",
 				"support.type.python",
 				"support.class.dart",
+				"support.constant",
+				"support.function.construct.output.php",
 				"storage.modifier.import",
 				"storage.modifier.package",
 				"source.python",
 				"source.dart",
 				"source.cs",
+				"constant.other",
 			],
 			"settings": {
 				"foreground": "#d6d6d6"
 			}
 		},
-
 		{
 			"name": "Function, Inherited Class",
 			"scope": [
@@ -188,12 +169,13 @@
 				"meta.parameter.object-binding-pattern.js",
 				"meta.object-literal.key",
 				"meta.function-call",
+				"support.class",
+				"support.function"
 			],
 			"settings": {
 				"foreground": "#d2c157",
 			}
 		},
-
 		{
 			"name": "Invalid",
 			"scope": [
@@ -212,7 +194,6 @@
 				"storage.modifier",
 				"meta.method.declaration",
 				"constant.other.color",
-				"punctuation.separator.inheritance.php",
 				"punctuation.definition.directive",
 				"keyword.operator.new",
 				"keyword.control",
@@ -227,6 +208,9 @@
 				"keyword.other.package",
 				"keyword.operator.expression",
 				"keyword.type",
+				"keyword.other.use",
+				"keyword.other.type",
+				"keyword.operator.logical.php",
 				"entity.name.section.markdown"
 			],
 			"settings": {
@@ -288,13 +272,10 @@
 		{
 			"name": "Number, Constant, Embedded, Inherited Class",
 			"scope": [
-				"constant.other",
 				"constant.numeric",
 				"constant.language",
 				"constant.character",
 				"constant.escape",
-				"support.constant",
-				"meta.class.body",
 				"entity.other.keyframe-offset"
 			],
 			"settings": {
@@ -315,7 +296,8 @@
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-				"meta.attribute-selector"
+				"meta.attribute-selector",
+				"keyword.other.DML.sql"
 			],
 			"settings": {
 				"foreground": "#f19767"
@@ -351,7 +333,7 @@
 				"keyword.control.at-rule.import",
 				"keyword.control.at-rule.include",
 				"keyword.control.at-rule.mixin.scss",
-				"keyword.control.operator.css.scss",	
+				"keyword.control.operator.css.scss",
 				"support.constant.property-value.css",
 				"support.constant.font-name.css",
 				"support.constant.color.w3c-standard-color-name.css",
