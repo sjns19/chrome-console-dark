@@ -230,7 +230,7 @@
 			}
 		},
 		{
-			"name": "HTML Tag, XML Tag",
+			"name": "HTML Tag, XML Tag, JSX Component",
 			"scope": [
 				"entity.name.tag",
 				"punctuation.definition.string.begin.html",
@@ -242,7 +242,8 @@
 				"punctuation.definition.string.begin.xml",
 				"punctuation.definition.string.end.xml",
 				"meta.tag.preprocessor.xml",
-				"keyword.other.doctype.xml"
+				"keyword.other.doctype.xml",
+				"support.class.component.js"
 			],
 			"settings": {
 				"foreground": "#69b6e5"
@@ -297,6 +298,7 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"meta.attribute-selector",
+				"keyword.other.sql",
 				"keyword.other.DML.sql"
 			],
 			"settings": {

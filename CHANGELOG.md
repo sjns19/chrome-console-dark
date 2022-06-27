@@ -1,12 +1,12 @@
 # Changelogs
 
-## Version 1.0.0 (1 Jun, 2022)
+### Version 1.0.0 (1 Jun, 2022)
 
 - Initial release
 
 ---
 
-## Version 1.0.1 (2 Jun, 2022)
+### Version 1.0.1 (2 Jun, 2022)
 
 - Corrected group header background color
 - Updated icon and showcase image
@@ -14,14 +14,14 @@
 
 ---
 
-## Version 1.0.2 (7 Jun, 2022)
+### Version 1.0.2 (7 Jun, 2022)
 
 - Added few missing colors in JavaScript
 - Updated README.md
 
 ---
 
-## Version 1.0.3 (24 Jun, 2022)
+### Version 1.0.3 (24 Jun, 2022)
 
 This update mostly focuses at improving colors for PHP.
 
@@ -33,3 +33,9 @@ This update mostly focuses at improving colors for PHP.
   - Logical operators
   - Variable types
 - Corrected color for SQL query string
+
+---
+
+### Version 1.0.4 (27 Jun, 2022)
+
+- Fixed JSX component turning yellow caused by the color of support functions that was changed in v1.0.3
