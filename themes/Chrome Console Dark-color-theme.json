@@ -170,7 +170,10 @@
 				"meta.object-literal.key",
 				"meta.function-call",
 				"support.class",
-				"support.function"
+				"support.function",
+				"entity.name.type.ts",
+				"entity.name.type.tsx",
+				"entity.name.type.module.tsx"
 			],
 			"settings": {
 				"foreground": "#d2c157",
@@ -208,6 +211,8 @@
 				"keyword.other.package",
 				"keyword.operator.expression",
 				"keyword.type",
+				"support.type.primitive.ts",
+				"support.type.primitive.tsx",
 				"keyword.other.use",
 				"keyword.other.type",
 				"keyword.operator.logical.php",
@@ -243,7 +248,8 @@
 				"punctuation.definition.string.end.xml",
 				"meta.tag.preprocessor.xml",
 				"keyword.other.doctype.xml",
-				"support.class.component.js"
+				"support.class.component.js",
+				"support.class.component.tsx"
 			],
 			"settings": {
 				"foreground": "#69b6e5"

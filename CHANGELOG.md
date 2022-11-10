@@ -39,3 +39,9 @@ This update mostly focuses at improving colors for PHP.
 ### Version 1.0.4 (27 Jun, 2022)
 
 - Fixed JSX component turning yellow caused by the color of support functions that was changed in v1.0.3
+
+---
+
+### Version 1.0.5 (10 Nov, 2022)
+
+- Added color support for TypeScript and .tsx files for React

@@ -2,7 +2,7 @@
     "name": "chrome-console-dark",
     "displayName": "Chrome Console Dark",
     "description": "Bringing Google Chrome console's theme color to VS Code!",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "sujanshrestha",
     "icon": "images/icon.png",
     "engines": {
@@ -13,10 +13,13 @@
         "dark",
         "dark theme",
         "night theme",
+        "night dark theme",
         "night dark",
         "chrome",
         "chrome console",
-        "chrome console theme"
+        "chrome console theme",
+        "chrome console dark",
+        "chrome console dark theme"
     ],
     "repository": {
         "type": "git",
