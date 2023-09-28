@@ -48,7 +48,7 @@ This update mostly focuses at improving colors for PHP.
 
 ---
 
-### Version 1.2.0 (17 Sep, 2023)
+### Version 1.1.0 (28 Sep, 2023)
 
 - Added two more color schemes
 	- Blackout Dark
