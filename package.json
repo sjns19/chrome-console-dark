@@ -1,40 +1,55 @@
 {
-    "name": "chrome-console-dark",
-    "displayName": "Chrome Console Dark",
-    "description": "Bringing Google Chrome console's theme color to VS Code!",
-    "version": "1.0.5",
-    "publisher": "sujanshrestha",
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "keywords": [
-        "theme",
-        "dark",
-        "dark theme",
-        "night theme",
-        "night dark theme",
-        "night dark",
-        "chrome",
-        "chrome console",
-        "chrome console theme",
-        "chrome console dark",
-        "chrome console dark theme"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sjns19/chrome-console-dark.git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chrome Console Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Chrome Console Dark-color-theme.json"
-            }
-        ]
-    }
+	"name": "chrome-console-dark",
+	"displayName": "Chrome Console Dark",
+	"description": "Brings Google Chrome's developer console color scheme to VS Code",
+	"version": "1.1.0",
+	"publisher": "sujanshrestha",
+	"icon": "images/icon.png",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"keywords": [
+		"theme",
+		"chrome console light",
+		"chrome console light theme",
+		"dark",
+		"dark theme",
+		"night theme",
+		"night dark theme",
+		"night dark",
+		"contrast",
+		"contrast theme",
+		"chrome",
+		"chrome console",
+		"chrome console theme",
+		"chrome console dark",
+		"chrome console dark theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sjns19/chrome-console-dark.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Chrome Console Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chrome-console-dark.json"
+			},
+			{
+				"label": "Chrome Console Blackout Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chrome-console-blackout-dark.json"
+			},
+			{
+				"label": "Chrome Console High Contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/chrome-console-hc-dark.json"
+			}
+		]
+	}
 }

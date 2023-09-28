@@ -45,3 +45,12 @@ This update mostly focuses at improving colors for PHP.
 ### Version 1.0.5 (10 Nov, 2022)
 
 - Added color support for TypeScript and .tsx files for React
+
+---
+
+### Version 1.2.0 (17 Sep, 2023)
+
+- Added two more color schemes
+	- Blackout Dark
+	- High Contrast
+- Corrected colors for several scopes
