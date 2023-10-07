@@ -42,7 +42,7 @@ Full changelogs can be found <a href="https://github.com/sjns19/chrome-console-d
 
 &copy; Chrome Console Dark
 
-Made with ❤️ by Suja>
+Made with ❤️ by Sujan
 
 [License](https://github.com/sjns19/chrome-console-dark/blob/main/LICENSE.md">License) | 
 [Preview in vscode.dev](https://vscode.dev/theme/SujanShrestha.chrome-console-dark)
