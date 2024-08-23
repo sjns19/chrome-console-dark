@@ -2,7 +2,7 @@
 	"name": "chrome-console-dark",
 	"displayName": "Chrome Console Dark",
 	"description": "Brings Google Chrome's developer console color scheme to VS Code",
-	"version": "1.1.0",
+	"version": "2.0.0",
 	"publisher": "sujanshrestha",
 	"icon": "images/icon.png",
 	"license": "MIT",
@@ -41,14 +41,29 @@
 				"path": "./themes/chrome-console-dark.json"
 			},
 			{
-				"label": "Chrome Console Blackout Dark",
+				"label": "Chrome Console Dark (Modern)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/chrome-console-blackout-dark.json"
+				"path": "./themes/chrome-console-dark-modern.json"
+			},
+			{
+				"label": "Chrome Console Blackout",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chrome-console-blackout.json"
+			},
+			{
+				"label": "Chrome Console Blackout (Modern)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chrome-console-blackout-modern.json"
 			},
 			{
 				"label": "Chrome Console High Contrast",
 				"uiTheme": "hc-black",
-				"path": "./themes/chrome-console-hc-dark.json"
+				"path": "./themes/chrome-console-hc.json"
+			},
+			{
+				"label": "Chrome Console High Contrast (Modern)",
+				"uiTheme": "hc-black",
+				"path": "./themes/chrome-console-hc-modern.json"
 			}
 		]
 	}

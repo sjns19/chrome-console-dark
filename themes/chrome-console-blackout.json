@@ -1,5 +1,5 @@
 {
-	"name": "Chrome Console Dark",
+	"name": "Chrome Console Blackout",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#101011",
@@ -98,7 +98,7 @@
 				"support.function.url.css",
 				"entity.other.attribute-name.pseudo-element",
 				"entity.other.attribute-name.pseudo-class",
-				"meta.class.body",
+				"meta.class.body"
 			],
 			"settings": {
 				"foreground": "#c2c9d1"
@@ -158,7 +158,7 @@
 				"source.python",
 				"source.dart",
 				"source.cs",
-				"constant.other",
+				"constant.other"
 			],
 			"settings": {
 				"foreground": "#d6d6d6"
@@ -180,7 +180,7 @@
 				"entity.name.type.module.tsx"
 			],
 			"settings": {
-				"foreground": "#d2c157",
+				"foreground": "#d2c157"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"variable.language.documentroot.xml"
 			],
 			"settings": {
-				"foreground": "#9bbbdc",
+				"foreground": "#9bbbdc"
 			}
 		},
 		{
@@ -354,7 +354,7 @@
 				"support.constant.vendored.property-value.css",
 				"support.constant.media",
 				"source.css keyword.other.unit",
-				"meta.property-value.css",
+				"meta.property-value.css"
 			],
 			"settings": {
 				"foreground": "#c2c9d1"

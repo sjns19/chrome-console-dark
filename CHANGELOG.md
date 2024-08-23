@@ -54,3 +54,7 @@ This update mostly focuses at improving colors for PHP.
 	- Blackout Dark
 	- High Contrast
 - Corrected colors for several scopes
+
+### Version 2.0 (23 Aug, 2024)
+
+- Brings newer color scheme of Chrome's dev console that was changed at some point along with Blackout and High Contrast variants for it.
